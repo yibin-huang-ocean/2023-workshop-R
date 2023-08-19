@@ -1,7 +1,7 @@
-# R tutorial Scritps for GO-BGC Data Workshop 2023
+# R Tutorial Scritps for GO-BGC Data Workshop 2023
 
 ## ABOUT
-This contains two R scripts prepared for the R live session, covering the float data accessing, processing, and visualizing [Argo](https://argo.ucsd.edu).
+This contains two R scripts prepared for the R live session, covering the tutorials about float data accessing, processing, and visualizing [Argo](https://argo.ucsd.edu).
 
 ## REQUIREMENTS
 1. Download the One-Argo-R Toolbox from  ["Github"](https://github.com/NOAA-PMEL/OneArgo-R/tree/in_progress)
