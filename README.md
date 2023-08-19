@@ -1,7 +1,7 @@
 # R Tutorial Scritps for GO-BGC Data Workshop 2023
 
 ## ABOUT
-This comprises two R scripts prepared for the live session of One-Argo-R toolbox. The first script entitled **"GO-BGC_workshop_Tutotrial.R"** demonstrates the main features of the One-Argo-R toolbox, including the float accessing, processing, and visualizing. The second script entitled **"NAtlantic_DOXY.R"** provides a template code to extract the float dissolved oxygen data in the North Subpolar Atlantic by leveraging the existing functions in the One-Argo-R toolbox.
+This comprises two R scripts prepared for the live session of One-Argo-R toolbox. The first script entitled **"One-Argo-R Toolbox Tutotrial.R"** demonstrates the main features of the One-Argo-R toolbox, including the float accessing, processing, and visualizing. The second script entitled **"NAtlantic_DOXY.R"** provides a template code to extract the float dissolved oxygen data in the North Subpolar Atlantic by leveraging the existing functions in the One-Argo-R toolbox.
 
 ## REQUIREMENTS
 1. Download the One-Argo-R Toolbox from [Github](https://github.com/NOAA-PMEL/OneArgo-R/tree/in_progress)
