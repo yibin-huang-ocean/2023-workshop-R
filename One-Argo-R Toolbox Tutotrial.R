@@ -188,3 +188,12 @@ show_sections( float_ids=OSP_data$float_ids[2],
                # tells the function to plot raw (unadjusted) data
 ) # tells the function to plot raw (unadjusted) data
 
+
+# Show time series of near-surface oxygen evolution for two floats
+
+show_time_series ( float_ids=OSP_data$float_ids[c(2,5)], 
+                   variables=c('DOXY'),
+                   plot_depth=20, # tells the function to plot the time-series for the given depth 
+                   raw="no"   # tells the function to plot the data with given quality flag level
+) 
+
