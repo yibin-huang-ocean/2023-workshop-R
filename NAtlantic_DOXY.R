@@ -11,7 +11,7 @@ rm(list = ls())
 
 # Fill here the path to the code directory, you can instead set the code
 # directory as the working directory with setwd()
-path_code = "/Users/yibinhuang/Downloads/BGC-ARGO_R_WORKSHOP-in_progress"
+path_code = ""
 
 
 # One-Argo toolbox setting up
