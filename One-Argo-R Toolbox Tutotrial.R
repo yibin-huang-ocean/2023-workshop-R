@@ -9,7 +9,7 @@ rm(list = ls())
 
 # Fill here the path to the code directory, you can instead set the code
 # directory as the working directory with setwd()
-path_code = "/Users/yibinhuang/Downloads/BGC-ARGO_R_WORKSHOP-in_progress"
+path_code = ""
  
 # Load the functions and libraries--------------------------------
 setwd(path_code)
